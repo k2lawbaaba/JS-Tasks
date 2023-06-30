@@ -18,13 +18,13 @@ h1{
  /* .landing-page section styling */
  .landing-page-div{
     display: flex;
-    /* flex-wrap: wrap;  */
+
  }
  .LP-text-button{
     text-align: left;
     padding: 13% 5% 5%;
     flex-basis: 100%;
-    /* height: 10vh; */
+    
  }
  .inner-LP-text-btn{
     margin-left: 45px;
